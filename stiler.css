@@ -29,3 +29,16 @@ body{
     color: #ffffff;
     text-align: center;
 }
+
+.sekssju {
+    display: inline-block;
+    outline: 2px solid #ffffff;
+    color: #000000;
+    padding: 4px 8px;
+    background-color: #ffffff;
+    font-size: 1000%;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+}
