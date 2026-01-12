@@ -10,9 +10,6 @@
 
 .linker li{
     text-decoration: none;
-    float: left;
-    margin-right: 2%;
-    margin-left: 2%;
 }
 
 .linker ul{
@@ -20,8 +17,8 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    margin-left: 25%;
-    margin-right: 25%;
+    display: flex;
+    justify-content: center;
 }
 
 body{
