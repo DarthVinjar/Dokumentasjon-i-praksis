@@ -6,7 +6,17 @@
     background-color: #000000;
     color: #ffffff;
     border: 2px solid #ffffff;
-    border-radius: 2px;
+    border-radius: 240px;
+    text-shadow: 2px 2px 4px #ffffff;
+    transition-duration: 0.5s;
+}
+
+.linker li :hover{
+    transition-duration: 0.5s;
+    font-size: 200%;
+    width: 100%;
+    text-decoration: underline #ffffff;
+
 }
 
 .linker li{
@@ -14,6 +24,7 @@
     width: 10%;
     margin-left: auto;
     margin-right: auto;
+    transition-duration: 0.5s;
 }
 
 .linker ul{
